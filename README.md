@@ -6,7 +6,7 @@
 
 Welcome to your tape, um, no, welcome to my profile :innocent:	
 
-I am a coding enthusiast :rocket:, instructor at [TrainYrBrain](https://www.linkedin.com/company/trainyrbrain) :teacher:, and contributor at [StrongBox](https://github.com/strongbox) :technologist:.
+I am a coding enthusiast :rocket:, instructor at [TrainYrBrain](https://www.linkedin.com/company/trainyrbrain) :teacher:, and contributor at [Credflow](https://github.com/credflow) :technologist:.
 
 Have something cool to share? Connect with me on \
 \
