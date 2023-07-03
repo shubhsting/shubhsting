@@ -6,8 +6,6 @@
 
 Welcome to your tape, um, no, welcome to my profile :innocent:	
 
-I am a coding enthusiast :rocket:, instructor at [TrainYrBrain](https://www.linkedin.com/company/trainyrbrain) :teacher:, and contributor at [Credflow](https://github.com/credflow) :technologist:.
-
 Have something cool to share? Connect with me on \
 \
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubh-singh/)](https://www.linkedin.com/in/shubh-singh/)
